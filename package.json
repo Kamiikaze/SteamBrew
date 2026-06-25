@@ -1,0 +1,25 @@
+{
+  "name": "steambrew",
+  "description": "SteamBrew is a monorepo for Steam client customizations, including Millennium themes and plugins.",
+  "repository": "https://github.com/Kamiikaze/SteamBrew",
+  "keywords": ["steam", "millennium", "theme", "plugin", "customization"],
+  "author": {
+    "name": "Kamikaze",
+    "url": "https://github.com/Kamiikaze"
+  },
+  "license": "MIT",
+  "scripts": {
+    "lint:css": "stylelint \"**/*.css\"",
+    "lint:css:fix": "stylelint \"**/*.css\" --fix"
+  },
+  "funding": [
+    {
+      "type": "Github",
+      "url": "https://github.com/sponsors/Kamiikaze"
+    }
+  ],
+  "devDependencies": {
+    "stylelint": "^17.13.0",
+    "stylelint-config-standard": "^40.0.0"
+  }
+}
