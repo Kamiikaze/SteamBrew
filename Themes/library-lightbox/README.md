@@ -2,6 +2,8 @@
 
 A Millennium theme that adds a lightbox image viewer to Steam Library news posts.
 
+![header.gif](src/assets/header.gif)
+
 ## What It Does
 
 This theme enhances images inside Steam Library news posts by making them easier to view, zoom, pan, and copy.
