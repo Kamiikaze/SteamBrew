@@ -3,7 +3,7 @@
   "description": "A theme which adds a lightbox for images in Steam-Library News posts.",
   "author": "Kamikaze",
   "version": "1.0.1",
-  "tags": ["Library", "Lightbox", "JS"],
+  "tags": ["Library", "Lightbox", "Features", "Tweaks"],
   "header_image": "https://raw.githubusercontent.com/Kamiikaze/SteamBrew/master/Themes/library-lightbox/src/assets/header.gif",
   "splash_image": "https://raw.githubusercontent.com/Kamiikaze/SteamBrew/master/Themes/library-lightbox/src/assets/splash.png",
   "github": {
