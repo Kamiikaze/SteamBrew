@@ -7,7 +7,7 @@ SteamBrew is a monorepo for Steam client customizations, including Millennium th
 
 | Name        | Description            |
 |-------------|------------------------|
-| **Steam-Library Lightbox Images** | Adds a fullscreen lightbox image viewer to Steam Library news posts. |
+| **[Steam-Library Lightbox Images](https://github.com/Kamiikaze/SteamBrew/tree/master/Themes/library-lightbox)** | Adds a fullscreen lightbox image viewer to Steam Library news posts. |
 
 
 ### Plugins
