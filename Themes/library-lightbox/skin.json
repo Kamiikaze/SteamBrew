@@ -2,7 +2,7 @@
   "name": "Steam-Library Lightbox Images",
   "description": "A theme which adds a lightbox for images in Steam-Library News posts.",
   "author": "Kamikaze",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "tags": ["Library", "Lightbox", "JS"],
   "github": {
     "owner": "Kamiikaze",
