@@ -4,8 +4,8 @@
   "author": "Kamikaze",
   "version": "1.0.1",
   "tags": ["Library", "Lightbox", "JS"],
-  "header_image": "https://raw.githubusercontent.com/Kamiikaze/SteamBrew/main/Themes/library-lightbox/src/assets/header.gif",
-  "splash_image": "https://raw.githubusercontent.com/Kamiikaze/SteamBrew/main/Themes/library-lightbox/src/assets/splash.png",
+  "header_image": "https://raw.githubusercontent.com/Kamiikaze/SteamBrew/master/Themes/library-lightbox/src/assets/header.gif",
+  "splash_image": "https://raw.githubusercontent.com/Kamiikaze/SteamBrew/master/Themes/library-lightbox/src/assets/splash.png",
   "github": {
     "owner": "Kamiikaze",
     "repo_name": "https://github.com/Kamiikaze/SteamBrew"
